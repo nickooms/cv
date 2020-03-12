@@ -4,12 +4,10 @@
 
 <details>
   <summary>Summary</Summary>
-
 - [x] Senior
 - [x] Full-Stack
 - [x] JavaScript
 - [x] TypeScript
-
 - [x] React
 - [x] Node.js
 - [x] WebGL
@@ -22,7 +20,6 @@
 </details>
 <details>
   <summary>Contact Info</summary>
-
   Markt 19, 2940 Hoevenen (Antwerp), Belgium
   (+32) 470 033 921
   oomsni@gmail.com
@@ -32,9 +29,8 @@
 </details>
 <details>
   <summary>R&D</summary>
-
-<details>
-  <summary>ITEA LASCOT</summary> 
+  <details>
+    <summary>ITEA LASCOT</summary> 
 
 Large Scale CollaboraржЮve Decision Support Technology
 
