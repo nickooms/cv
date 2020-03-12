@@ -1,8 +1,8 @@
-#Curriculum Vitae
+# Curriculum Vitae
 
-Nick Ooms
+## Nick Ooms
 
-Senior Full-Stack Javascript Developer & Architect
+### Senior Full-Stack Javascript Developer & Architect
 
 Started developing with Borland Turbo Pascal and later some x86 Assembly on a
 
@@ -24,7 +24,7 @@ I simply love Javascript and have been using it on front & back-end ( Aptana Jax
 
 followed by Node.js ) for well over 15 years.
 
-Contact Info
+### Contact Info
 
 Markt 19, 2940 Hoevenen (Antwerp), Belgium
 
@@ -38,9 +38,9 @@ linkedin.com/in/oomsnick
 
 github.com/nickooms
 
-R&D
+### R&D
 
-ITEA LASCOT
+#### ITEA LASCOT
 
 Large Scale CollaboraржЮve Decision Support Technology
 
@@ -48,7 +48,7 @@ Crisis management R&D project for ITEA ( https://itea3.org ),
 
 for which I created a CEP (Complex Event Processing} engine.
 
-IWT SERKET
+#### IWT SERKET
 
 SEcuRisaржЮon KEeps Threats
 
@@ -56,7 +56,7 @@ R&D project using computer vision based on CCTV camera video for IWT (InsржЮt
 
 InnovaржЮe door Wetenschap en Technologie vlaanderen).
 
-GENESIS FP7
+#### GENESIS FP7
 
 European Commission FP7 ( https://ec.europa.eu/research/fp7 ) R&D Project, for
 
@@ -68,17 +68,17 @@ a geospaржЮal database ( MySQL & PostgreSQL ), WebService layer ( SOAP , REST
 
 ( https://inspire.ec.europa.eu ) standards.
 
-Languages
+### Languages
 
-Lamguage Level
+|Lamguage |Level|
 
-Dutch Mother Tongue
+|Dutch| Mother Tongue|
 
-English Fluent
+|English| Fluent|
 
-French Intermediate
+|French |Intermediate|
 
-EducaржЮon
+### EducaржЮon
 
 InsржЮtuржЮon LocaржЮon Period
 
@@ -90,9 +90,9 @@ Industrial Science Gitok Kalmthout 1992 - 1994
 
 ASO Sint Jan Berchmanscollege Merksem 1989 - 1992
 
-Skills
+### Skills
 
-Development Languages
+#### Development Languages
 
 JavaScript : JScript, ES3, ES5, ES6, ES7, ES8
 
