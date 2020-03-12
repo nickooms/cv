@@ -1,6 +1,9 @@
 # Nick Ooms
 
-## Curriculum Vitae
+> Curriculum Vitae
+
+<details>
+  <summary>Summary</Summary>
 
 - [x] Senior
 - [x] Full-Stack
@@ -30,8 +33,9 @@ themes, followed by office 2003, and later adopted Vista and the Aero look).
 I simply love Javascript and have been using it on front & back-end ( Aptana Jaxer
 
 followed by Node.js ) for well over 15 years.
-
-### Contact Info
+</details>
+<details>
+<summary>Contact Info</summary>
 
 Markt 19, 2940 Hoevenen (Antwerp), Belgium
 
@@ -44,7 +48,7 @@ twier.com/nickooms
 linkedin.com/in/oomsnick
 
 github.com/nickooms
-
+</details>
 ### R&D
 
 #### ITEA LASCOT
