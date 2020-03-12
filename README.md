@@ -1,8 +1,9 @@
-# Curriculum Vitae
+# Nick Ooms
 
-## Nick Ooms
+## Curriculum Vitae
 
-### Senior Full-Stack Javascript Developer & Architect
+[x] Senior
+Full-Stack Javascript Developer & Architect
 
 Started developing with Borland Turbo Pascal and later some x86 Assembly on a
 
