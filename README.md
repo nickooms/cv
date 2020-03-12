@@ -2,8 +2,14 @@
 
 ## Curriculum Vitae
 
-[x] Senior
-Full-Stack Javascript Developer & Architect
+- [x] Senior
+- [x] Full-Stack
+- [x] JavaScript
+- [x] TypeScript
+
+- [x] React
+- [x] Node.js
+- [x] WebGL
 
 Started developing with Borland Turbo Pascal and later some x86 Assembly on a
 
@@ -72,6 +78,7 @@ a geospaржЮal database ( MySQL & PostgreSQL ), WebService layer ( SOAP , REST
 ### Languages
 
 |Lamguage |Level|
+|---|---|
 
 |Dutch| Mother Tongue|
 
