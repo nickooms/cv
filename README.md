@@ -79,30 +79,28 @@ a geospaржЮal database ( MySQL & PostgreSQL ), WebService layer ( SOAP , REST
 
 |Lamguage |Level|
 |---|---|
-
 |Dutch| Mother Tongue|
-
 |English| Fluent|
-
 |French |Intermediate|
 
-### EducaржЮon
+### Education
 
-InsржЮtuржЮon LocaржЮon Period
-
-Computer Science RUCA Antwerp 1996 тАУ 1997
-
-Computer Science SIHA 3 Antwerp 1994 тАУ 1996
-
-Industrial Science Gitok Kalmthout 1992 - 1994
-
-ASO Sint Jan Berchmanscollege Merksem 1989 - 1992
+|Institution|Location|Period|
+|---|---|---|
+|Computer Science |RUCA| Antwerp| 1996 - 1997|
+|Computer Science |SIHA 3 Antwerp| 1994 -1996|
+|Industrial Science |Gitok |Kalmthout|1992 - 1994|
+|ASO |Sint Jan Berchmanscollege| Merksem |1989 - 1992|
 
 ### Skills
 
 #### Development Languages
 
-JavaScript : JScript, ES3, ES5, ES6, ES7, ES8
+- JavaScript
+  - [x] TypeSript
+  - [x] ES3
+  - [x] ES5
+  - ES6, ES7, ES8
 
 Python
 
