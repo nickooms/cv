@@ -4,6 +4,7 @@
 
 <details>
   <summary>Summary</Summary>
+
 - [x] Senior
 - [x] Full-Stack
 - [x] JavaScript
