@@ -5,6 +5,9 @@
 - [Summary](#summary)
 - [Contact Info](#contact-info)
 - [R&D](#rd)
+  - [ITEA LASCOT](#itea-lascot)
+  - [IWT SERKET](#iwt-serket)
+  - [GENESIS FP7](#genesis-fp7)
 
 ## Summary
 
@@ -16,19 +19,19 @@
 - [x] Node.js
 - [x] WebGL
 
-  Started developing with Borland Turbo Pascal and later some x86 Assembly on a4.77Mhz IBM PC some 25 years ago.
-  Executed my first XMLHttpRequest (Currently ) back in 1999 on IE5 and was immediately hooked on the freedom and dynamic nature of JavaScript .
-  In the following years I developed a (now known as SPA or Single Page ApplicaржЮon) framework based on a self-developed XML dialect for defining fully funcржЮonal, resizeable pixel perfect copies of Windows 7 (Windows XP at first with all 3 color themes, followed by office 2003, and later adopted Vista and the Aero look).
-  I simply love Javascript and have been using it on front & back-end ( Aptana Jaxer followed by Node.js ) for well over 15 years.
+Started developing with Borland Turbo Pascal and later some x86 Assembly on a4.77Mhz IBM PC some 25 years ago.
+Executed my first XMLHttpRequest (Currently ) back in 1999 on IE5 and was immediately hooked on the freedom and dynamic nature of JavaScript .
+In the following years I developed a (now known as SPA or Single Page ApplicaржЮon) framework based on a self-developed XML dialect for defining fully funcржЮonal, resizeable pixel perfect copies of Windows 7 (Windows XP at first with all 3 color themes, followed by office 2003, and later adopted Vista and the Aero look).
+I simply love Javascript and have been using it on front & back-end ( Aptana Jaxer followed by Node.js ) for well over 15 years.
 
 ## Contact Info
 
 - Markt 19, 2940 Hoevenen (Antwerp), Belgium
 - (+32) 470 033 921
-- oomsni@gmail.com
-- twier.com/nickooms
-- linkedin.com/in/oomsnick
-- github.com/nickooms
+- [oomsni@gmail.com](mailto:oomsni@gmail.com)
+- [twitter.com/nickooms](https://twitter.com/nickooms)
+- [linkedin.com/in/oomsnick](https://linkedin.com/in/oomsnick)
+- [github.com/nickooms](https://github.com/nickooms)
 
 ## R&D
 
@@ -36,119 +39,104 @@
 
 Large Scale CollaboraржЮve Decision Support Technology
 
-Crisis management R&D project for ITEA ( https://itea3.org ),
+Crisis management R&D project for [ITEA](https://itea3.org), for which I created a CEP (Complex Event Processing} engine.
 
-for which I created a CEP (Complex Event Processing} engine.
-</details>
-<details>
-  <summary>IWT SERKET</summary>
+### IWT SERKET
 
 SEcuRisaржЮon KEeps Threats
 
-R&D project using computer vision based on CCTV camera video for IWT (InsржЮtuut voor
+R&D project using computer vision based on CCTV camera video for IWT (Instituut voor Innovatiee door Wetenschap en Technologie vlaanderen).
 
-InnovaржЮe door Wetenschap en Technologie vlaanderen).
+### GENESIS FP7
 
-#### GENESIS FP7
+European Commission [FP7](https://ec.europa.eu/research/fp7) R&D Project, for which I developed a semantic modelling framework (Buddata Studio) that can generateva geospaржЮal database (MySQL & PostgreSQL), WebService layer (SOAP , REST WFS 1.1 - 2.0) and front-end SPA based on XSD schemas of [INSPIRE](https://inspire.ec.europa.eu) standards.
 
-European Commission FP7 ( https://ec.europa.eu/research/fp7 ) R&D Project, for
+## Languages
 
-which I developed a semanржЮc modelling framework (Buddata Studio) that can generate
+| Language | Level         |
+|----------|---------------|
+| Dutch    | Mother Tongue |
+| English  | Fluent        |
+| French   | Intermediate  |
 
-a geospaржЮal database ( MySQL & PostgreSQL ), WebService layer ( SOAP , REST WFS 1.1
+## Skills
 
-- 2.0) and front-end SPA based on XSD schemas of INSPIRE
-
-( https://inspire.ec.europa.eu ) standards.
-
-### Languages
-
-|Lamguage |Level|
-|---|---|
-|Dutch| Mother Tongue|
-|English| Fluent|
-|French |Intermediate|
-
-### Education
-
-|Institution|Location|Period|
-|---|---|---|
-|Computer Science |RUCA| Antwerp| 1996 - 1997|
-|Computer Science |SIHA 3 Antwerp| 1994 -1996|
-|Industrial Science |Gitok |Kalmthout|1992 - 1994|
-|ASO |Sint Jan Berchmanscollege| Merksem |1989 - 1992|
-
-### Skills
-
-#### Development Languages
+### Development Languages
 
 - JavaScript
-  - [x] TypeSript
-  - [x] ES3
-  - [x] ES5
+  - TypeSript
+  - ES3
+  - ES5
   - ES6, ES7, ES8
+- Python
+- C#
+  - .NET Framework 1.0 - 4.6
+- VB
+  - 6.0 - .NET Framework 2.0
+- C
+  - C
+  - C++
+- Java
+  - Java SE 6
+  - Java SE7
+- PASCAL
+  - Borland Turbo Pascal
+- HTML
+  - HTML4
+  - HTML5
+  - DOM
+  - Canvas
+- CSS
+  - CSS
+  - CSS3
+  - Sass
+  - SCSS
+- XML
+  - XSD
+  - XSLT
+  - XQuery
+  - DOM
+  - SOAP
+- SQL
+  - ANSI SQL 92 - 2011
+- Assembly
+  - x86
+  - asm.js
+  - WebAssembly
+- GL
+  - OpenGL
+  - WebGL
+  - GLSL
+- BPMN
+  - BPMN 2.0
+  - BPEL
 
-Python
+### Frameworks & Technologies
 
-C# : .NET Framework 1.0 - 4.6
+- Apollo GraphQL
+- Docker
+- Apollo GraphQL
+- JQuery, JQuery UI, ExtJS, Bootstrap
+- AngularJS, Angular 2
+- React, Flux, Redux, React Router,
 
-VB : 6.0 - .NET Framework 2.0
-
-C : C, C++
-
-Java : Java SE 6, Java SE7
-
-PASCAL : Borland Turbo Pascal
-
-HTML: HTML4, HTML5, DOM, CANVAS
-
-CSS : CSS, CSS3, Sass, SCSS
-
-XML : XSD, XSLT, XQuery, DOM, SOAP
-
-SQL: ANSI SQL 92 тАУ 2011
-
-Assembly : x86, asm.js, WebAssembly
-
-GL : OpenGL WebGL, GLSL
-
-BPMN: BPMN 2.0, BPEL
-
-Frameworks & Technologies
-
-Apollo GraphQL
-
-Docker
-
-Apollo GraphQL
-
-JQuery, JQuery UI, ExtJS, Bootstrap
-
-AngularJS, Angular 2
-
-React, Flux, Redux, React Router,
-
-Databases
+### Databases
 
 Neo4J, Structr
-
 MongoDB, MongooseJS
-
 MySQL, GEOSpaржЮal extensions
-
 PostgreSQL PostGIS,
-
 SQL Server, Oracle PLSQL
 
-OperaржЮng Systems
+### Operating Systems
 
-Microso[ : MSDOS, Windows 3.10 тАУ Windows 10
+Microsoft : MSDOS, Windows 3.10 - Windows 10
 
 UNIX based : Linux, Debian, Fedora, Deepin Linux, Ubuntu, Android
 
 Apple : Mac OS X, iOS
 
-Experience
+### Experience
 
 Neanex [ 2018 - current ]
 
