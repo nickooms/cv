@@ -2,8 +2,9 @@
 
 > Curriculum Vitae
 
-<details>
-  <summary>Summary</Summary>
+- [Summary](#Summary)
+
+## Summary
 
 - [x] Senior
 - [x] Full-Stack
@@ -18,20 +19,18 @@
   In the following years I developed a (now known as SPA or Single Page ApplicaржЮon) framework based on a self-developed XML dialect for defining fully funcржЮonal, resizeable pixel perfect copies of Windows 7 (Windows XP at first with all 3 color themes, followed by office 2003, and later adopted Vista and the Aero look).
   I simply love Javascript and have been using it on front & back-end ( Aptana Jaxer followed by Node.js ) for well over 15 years.
 
-</details>
-<details>
-  <summary>Contact Info</summary>
-  Markt 19, 2940 Hoevenen (Antwerp), Belgium
+## Contact Info
+
+Markt 19, 2940 Hoevenen (Antwerp), Belgium
   (+32) 470 033 921
   oomsni@gmail.com
   twier.com/nickooms
   linkedin.com/in/oomsnick
   github.com/nickooms
-</details>
-<details>
-  <summary>R&D</summary>
-  <details>
-    <summary>ITEA LASCOT</summary> 
+
+## R&D
+
+### ITEA LASCOT
 
 Large Scale CollaboraржЮve Decision Support Technology
 
