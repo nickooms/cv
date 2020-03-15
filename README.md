@@ -2,7 +2,9 @@
 
 > Curriculum Vitae
 
-- [Summary](#Summary)
+- [Summary](#summary)
+- [Contact Info](#contact-info)
+- [R&D](#rd)
 
 ## Summary
 
@@ -21,12 +23,12 @@
 
 ## Contact Info
 
-Markt 19, 2940 Hoevenen (Antwerp), Belgium
-  (+32) 470 033 921
-  oomsni@gmail.com
-  twier.com/nickooms
-  linkedin.com/in/oomsnick
-  github.com/nickooms
+- Markt 19, 2940 Hoevenen (Antwerp), Belgium
+- (+32) 470 033 921
+- oomsni@gmail.com
+- twier.com/nickooms
+- linkedin.com/in/oomsnick
+- github.com/nickooms
 
 ## R&D
 
