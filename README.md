@@ -8,6 +8,15 @@
   - [ITEA LASCOT](#itea-lascot)
   - [IWT SERKET](#iwt-serket)
   - [GENESIS FP7](#genesis-fp7)
+- [Languages](#languages)
+- [Skills](#skills)
+  - [Development Languages](#development-languages)
+  - [Frameworks & Technologies](#frameworks-technologies)
+  - [Databases](#databases)
+  - [Operating Systems](#operating-systems)
+- [Experience](#experience)
+  - [Neanex](#neanex)
+  
 
 ## Summary
 
@@ -120,117 +129,84 @@ European Commission [FP7](https://ec.europa.eu/research/fp7) R&D Project, for wh
 - AngularJS, Angular 2
 - React, Flux, Redux, React Router,
 
-### Databases
+### Databases & Tools
 
-Neo4J, Structr
-MongoDB, MongooseJS
-MySQL, GEOSpaржЮal extensions
-PostgreSQL PostGIS,
-SQL Server, Oracle PLSQL
+- Neo4J, Structr
+- MongoDB, MongooseJS
+- MySQL, GEOSpaржЮal extensions
+- PostgreSQL PostGIS,
+- SQL Server, Oracle PLSQL
 
 ### Operating Systems
 
-Microsoft : MSDOS, Windows 3.10 - Windows 10
+- MSDOS
+- Windows 3.10 - Windows 10
+- Linux, Debian, Fedora, Deepin Linux, Ubuntu, Android
+- Mac OS X, iOS
 
-UNIX based : Linux, Debian, Fedora, Deepin Linux, Ubuntu, Android
+## Experience
 
-Apple : Mac OS X, iOS
+### Neanex [2018 - current]
 
-### Experience
+#### Robovision 3D labeller
 
-Neanex [ 2018 - current ]
+- WebGL
+- ThreeJS
+- Vue
+- Node.js
 
-SlickSS [ 2017 ]
+#### Neanex
 
-Freelance & Open Source Projects [ 2015 тАУ 2016 ]
+- WebGL
+- Node.js
+- Neo4J
+- Structr
+- React
+- Apollo GraphQL
 
-4C / Cronos [ 1998 тАУ 2015 ]
+### SlickSS [2017]
 
-Business SoluржЮons [ 1997 тАУ 1998 ]
+#### SlickSS
 
-Solvay NV [ 1997 ]
+- Docker
+- CoffeScript
+- ExtJS
 
-Projects
+### Freelance & Open Source Projects [2015 - 2016]
 
-Robovision 3D labeller
+#### Freelance & Open Source
 
-WebGL
+- ReactJS
+- AngularJS
+- JavaScript
+- Webpack
+- RollupJS
+- WebGL
+- WebAudio
 
-ThreeJS
+### 4C / Cronos [1998 - 2015]
 
-Vue
+#### AGIV
 
-Node.js
+- OpenLayers
+- Node.js
+- JavaScript
+- CSS
+- HTML5
+- XML
+- JSON
+- Aptana Jaxer
+- Buddata Studio (JavaScript-based rich web client)
+- Buddata UI Framework (JavaScript codebase used by Buddata Studio)
+- Buddata OGC Web Feature Service 2.0
+- Enterprise Architect (Sparx)
+- ShapeChange 2.0
+- Buddata ebXML3.0 Registry Service
+- OGC CSW for ebRIM resolver-broker
 
-Neanex
+### Business Solutions [1997 - 1998]
 
-WebGL
-
-Node.js
-
-Neo4J
-
-Structr
-
-React
-
-Apollo GraphQL
-
-SlickSS
-
-Docker
-
-CoffeScript
-
-ExtJS
-
-Freelance & Open Source
-
-ReactJS
-
-AngularJS
-
-Javascript
-
-Webpack
-
-RollupJS
-
-WebGL
-
-WebAudio
-
-AGIV
-
-OpenLayers
-
-Node.js
-
-Javascript
-
-CSS
-
-HTML5
-
-XML
-
-JSON
-
-Aptana Jaxer
-
-Buddata Studio (JavaScript-based rich web client)
-
-Buddata UI Framework (JavaScript codebase used by Buddata Studio)
-
-Buddata OGC Web Feature Service 2.0
-
-Enterprise Architect (Sparx)
-
-ShapeChange 2.0
-
-Buddata ebXML3.0 Registry Service
-
-OGC CSW for ebRIM resolver-broker
+### Solvay NV [1997]
 
 Bizagi Process Modeler
 
