@@ -29,8 +29,10 @@
 - [x] WebGL
 
 Started developing with Borland Turbo Pascal and later some x86 Assembly on a4.77Mhz IBM PC some 25 years ago.
-Executed my first XMLHttpRequest (Currently ) back in 1999 on IE5 and was immediately hooked on the freedom and dynamic nature of JavaScript .
+Executed my first XMLHttpRequest (Currently ) back in 1999 on IE5 and was immediately hooked on the freedom and dynamic nature of JavaScript.
+
 In the following years I developed a (now known as SPA or Single Page ApplicaржЮon) framework based on a self-developed XML dialect for defining fully funcржЮonal, resizeable pixel perfect copies of Windows 7 (Windows XP at first with all 3 color themes, followed by office 2003, and later adopted Vista and the Aero look).
+
 I simply love Javascript and have been using it on front & back-end ( Aptana Jaxer followed by Node.js ) for well over 15 years.
 
 ## Contact Info
