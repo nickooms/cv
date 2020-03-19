@@ -203,96 +203,59 @@ European Commission [FP7](https://ec.europa.eu/research/fp7) R&D Project, for wh
 - ShapeChange 2.0
 - Buddata ebXML3.0 Registry Service
 - OGC CSW for ebRIM resolver-broker
+- Bizagi Process Modeler
+- MySQL
+- PostgreSQL/PostGIS
+
+#### Itineris
+
+- C#
+- MS Visual Studio
+- XSLT
+- MS Word templates
+- SQLServer
+- Microsoft AX
+
+#### Arcelor Mial LogisржЮcs
+
+- C#
+- XSLT
+- SQL Server
+
+#### kZenLabs
+
+- Java
+- C#
+- Node.js
+- Javascript
+- HTML5
+- CSS
+- XML
+- JSON
+- Aptana Jaxer
+- Buddata Studio
+- PostgreSQL / PostGIS
+- MySQL
+
+#### GENESIS FP7 - 4CT/kZenLabs
+
+- Java
+- C#
+- Node.js
+- Javascript
+- CSS
+- HTML5
+- XML
+- JSON
+- Apatan Jaxer
+- Buddata Studio (JavaScript-based rich web client)
+- Buddata UI Framework (JavaScript codebase used by Buddata Studio)
+- Buddata OGC Web Feature Service 2.0
+- Buddata OGC Web Processing Service
+- Buddata OGC CSW for ebRIM resolver-broker
+- PostgreSQL/PostGIS
+- MySQL
 
 ### Business Solutions [1997 - 1998]
 
 ### Solvay NV [1997]
-
-Bizagi Process Modeler
-
-MySQL
-
-PostgreSQL / PostGIS
-
-IржЮneris
-
-C#
-
-MS Visual Studio
-
-XSLT
-
-MS Word templates
-
-SQLServer
-
-Microso[ AX
-
-Arcelor Mial LogisржЮcs
-
-C#
-
-XSLT
-
-SQL Server
-
-kZenLabs
-
-Java
-
-C#
-
-Node.js
-
-Javascript
-
-HTML5
-
-CSS
-
-XML
-
-JSON
-
-Aptana Jaxer
-
-Buddata Studio
-
-PostgreSQL / PostGIS
-
-MySQL
-
-GENESIS FP7 тАУ 4CT/kZenLabs
-
-Java
-
-C#
-
-Node.js
-
-Javascript
-
-CSS
-
-HTML5
-
-XML
-
-JSON
-
-Apatan Jaxer
-
-Buddata Studio (JavaScript-based rich web client)
-
-Buddata UI Framework (JavaScript codebase used by Buddata Studio)
-
-Buddata OGC Web Feature Service 2.0
-
-Buddata OGC Web Processing Service
-
-Buddata OGC CSW for ebRIM resolver-broker
-
-PostgreSQL/PostGIS
-
-MySQL
-
