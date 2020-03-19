@@ -15,7 +15,21 @@
   - [Databases](#databases)
   - [Operating Systems](#operating-systems)
 - [Experience](#experience)
+  - [Neanex](#meanex)
+  - [Robovision 3D labeller](#robovision-3d-labeller)
   - [Neanex](#neanex)
+- [SlickSS](#slickSS)
+  - [SlickSS](#slickss)
+- [Freelance & Open Source Projects](#freelance-open-source-projects)
+  - [Freelance & Open Source](#freelance-open-source)
+- [4C / Cronos](#4c-cronos)
+  - [AGIV](#agiv)
+  - [Itineris](#itineris)
+  - [Arcelor Mital Logistics](#arcelor-mital-logistics)
+  - [kZenLabs](#kzenlabs)
+  - [GENESIS FP7 - 4CT/kZenLabs](#genesis-fp7-4ctkzenlabs)
+- [Business Solutions](#business-solutions)
+- [Solvay NV](#solvay-nv)
   
 
 ## Summary
@@ -218,7 +232,7 @@ European Commission [FP7](https://ec.europa.eu/research/fp7) R&D Project, for wh
 - SQLServer
 - Microsoft AX
 
-#### Arcelor Mial LogisржЮcs
+#### Arcelor Mital Logistics
 
 - C#
 - XSLT
