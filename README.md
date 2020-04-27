@@ -15,6 +15,7 @@
   - [Databases](#databases)
   - [Operating Systems](#operating-systems)
 - [Experience](#experience)
+
   - [Neanex](#meanex)
     - [Robovision 3D labeller](#robovision-3d-labeller)
     - [Neanex](#neanex)
@@ -30,7 +31,7 @@
     - [GENESIS FP7 - 4CT/kZenLabs](#genesis-fp7-4ctkzenlabs)
   - [Business Solutions](#business-solutions)
   - [Solvay NV](#solvay-nv)
-  
+
 ## Summary
 
 - [x] Senior
@@ -78,7 +79,7 @@ European Commission [FP7](https://ec.europa.eu/research/fp7) R&D Project, for wh
 ## Languages
 
 | Language | Level         |
-|----------|---------------|
+| -------- | ------------- |
 | Dutch    | Mother Tongue |
 | English  | Fluent        |
 | French   | Intermediate  |
@@ -161,7 +162,19 @@ European Commission [FP7](https://ec.europa.eu/research/fp7) R&D Project, for wh
 
 ## Experience
 
-### Neanex [2018 - current]
+### Porphyrio [09/2019 - 11/2019]
+
+- React
+- TypeScript
+- Node.js
+
+### ChatLayer [04/2019 - 06/2019]
+
+- React
+- Node.js
+- Docker
+
+### Neanex [02/2018 - 02/2019]
 
 #### Robovision 3D labeller
 
@@ -179,7 +192,7 @@ European Commission [FP7](https://ec.europa.eu/research/fp7) R&D Project, for wh
 - React
 - Apollo GraphQL
 
-### SlickSS [2017]
+### SlickSS [03/2017 - 08/2017]
 
 #### SlickSS
 
@@ -187,7 +200,7 @@ European Commission [FP7](https://ec.europa.eu/research/fp7) R&D Project, for wh
 - CoffeScript
 - ExtJS
 
-### Freelance & Open Source Projects [2015 - 2016]
+### Freelance & Open Source Projects [04/2015 - 02/2016]
 
 #### Freelance & Open Source
 
@@ -199,7 +212,7 @@ European Commission [FP7](https://ec.europa.eu/research/fp7) R&D Project, for wh
 - WebGL
 - WebAudio
 
-### 4C / Cronos [1998 - 2015]
+### 4C / Cronos [11/1998 - 03/2015]
 
 #### AGIV
 
@@ -271,6 +284,6 @@ European Commission [FP7](https://ec.europa.eu/research/fp7) R&D Project, for wh
 - PostgreSQL/PostGIS
 - MySQL
 
-### Business Solutions [1997 - 1998]
+### Business Solutions [12/1997 - 09/1998]
 
-### Solvay NV [1997]
+### Solvay NV [05/1997 - 11/1997]
