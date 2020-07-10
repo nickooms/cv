@@ -1,9 +1,9 @@
 import React from 'react';
-import { Navbar, Nav, Icon, Dropdown } from 'rsuite';
+import { Navbar, Nav, Icon /* , Dropdown */ } from 'rsuite';
 
 const { Body } = Navbar;
 const { Item } = Nav;
-const { Item: Option } = Dropdown;
+// const { Item: Option } = Dropdown;
 
 const NavBar = ({ onDrawer, onSelect, activeKey, ...props }) => (
   <Navbar {...props} appearance="inverse">
@@ -13,13 +13,13 @@ const NavBar = ({ onDrawer, onSelect, activeKey, ...props }) => (
         <Item eventKey="2" icon={<Icon icon="home" />}>
           Home
         </Item>
-        <Item eventKey="3">News</Item>
+        {/* <Item eventKey="3">News</Item>
         <Item eventKey="4">Products</Item>
         <Dropdown title="About">
           <Option eventKey="5">Company</Option>
           <Option eventKey="6">Team</Option>
           <Option eventKey="7">Contact</Option>
-        </Dropdown>
+        </Dropdown> */}
       </Nav>
       <Nav pullRight>
         <Item icon={<Icon icon="cog" />}>Settings</Item>
