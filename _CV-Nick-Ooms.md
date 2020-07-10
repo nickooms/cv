@@ -1,41 +1,36 @@
 # Nick Ooms
 
-- [Nick Ooms](#nick-ooms)
-  - [Senior Full stack JavaScript Developer](#senior-full-stack-javascript-developer)
-  - [Summary](#summary)
-  - [Contact Info](#contact-info)
-  - [R&D](#rd)
-    - [ITEA LASCOT](#itea-lascot)
-    - [IWT SERKET](#iwt-serket)
-    - [GENESIS FP7](#genesis-fp7)
-  - [Languages](#languages)
-  - [Skills](#skills)
-    - [Development Languages](#development-languages)
-    - [Frameworks & Technologies](#frameworks--technologies)
-    - [Databases & Tools](#databases--tools)
-    - [Operating Systems](#operating-systems)
-  - [Experience](#experience)
-    - [Porphyrio [09/2019 - 11/2019]](#porphyrio-092019---112019)
-    - [ChatLayer [04/2019 - 06/2019]](#chatlayer-042019---062019)
-    - [Neanex [02/2018 - 02/2019]](#neanex-022018---022019)
-      - [Robovision 3D labeller](#robovision-3d-labeller)
-      - [Neanex](#neanex)
-    - [SlickSS [03/2017 - 08/2017]](#slickss-032017---082017)
-      - [SlickSS](#slickss)
-    - [Freelance & Open Source Projects [04/2015 - 02/2016]](#freelance--open-source-projects-042015---022016)
-      - [Freelance & Open Source](#freelance--open-source)
-    - [4C / Cronos [11/1998 - 03/2015]](#4c--cronos-111998---032015)
-      - [AGIV](#agiv)
-      - [Itineris](#itineris)
-      - [Arcelor Mital Logistics](#arcelor-mital-logistics)
-      - [kZenLabs](#kzenlabs)
-      - [GENESIS FP7 - 4CT/kZenLabs](#genesis-fp7---4ctkzenlabs)
-    - [Business Solutions [12/1997 - 09/1998]](#business-solutions-121997---091998)
-    - [Solvay NV [05/1997 - 11/1997]](#solvay-nv-051997---111997)
-  
-## Senior Full stack JavaScript Developer
-
 > Curriculum Vitae
+
+- [Summary](#summary)
+- [Contact Info](#contact-info)
+- [R&D](#rd)
+  - [ITEA LASCOT](#itea-lascot)
+  - [IWT SERKET](#iwt-serket)
+  - [GENESIS FP7](#genesis-fp7)
+- [Languages](#languages)
+- [Skills](#skills)
+  - [Development Languages](#development-languages)
+  - [Frameworks & Technologies](#frameworks-technologies)
+  - [Databases](#databases)
+  - [Operating Systems](#operating-systems)
+- [Experience](#experience)
+
+  - [Neanex](#meanex)
+    - [Robovision 3D labeller](#robovision-3d-labeller)
+    - [Neanex](#neanex)
+  - [SlickSS](#slickSS)
+    - [SlickSS](#slickss)
+  - [Freelance & Open Source Projects](#freelance-open-source-projects)
+    - [Freelance & Open Source](#freelance-open-source)
+  - [4C / Cronos](#4c-cronos)
+    - [AGIV](#agiv)
+    - [Itineris](#itineris)
+    - [Arcelor Mital Logistics](#arcelor-mital-logistics)
+    - [kZenLabs](#kzenlabs)
+    - [GENESIS FP7 - 4CT/kZenLabs](#genesis-fp7-4ctkzenlabs)
+  - [Business Solutions](#business-solutions)
+  - [Solvay NV](#solvay-nv)
 
 ## Summary
 
@@ -63,27 +58,23 @@ I simply love Javascript and have been using it on front & back-end ( Aptana Jax
 - [linkedin.com/in/oomsnick](https://linkedin.com/in/oomsnick)
 - [github.com/nickooms](https://github.com/nickooms)
 
-<div class="page" />
-
 ## R&D
 
 ### ITEA LASCOT
 
-Large Scale Collaborative Decision Support Technology
+Large Scale CollaboraржЮve Decision Support Technology
 
 Crisis management R&D project for [ITEA](https://itea3.org), for which I created a CEP (Complex Event Processing} engine.
 
 ### IWT SERKET
 
-SEcuRisation KEeps Threats
+SEcuRisaржЮon KEeps Threats
 
 R&D project using computer vision based on CCTV camera video for IWT (Instituut voor Innovatiee door Wetenschap en Technologie vlaanderen).
 
 ### GENESIS FP7
 
 European Commission [FP7](https://ec.europa.eu/research/fp7) R&D Project, for which I developed a semantic modelling framework (Buddata Studio) that can generateva geospaржЮal database (MySQL & PostgreSQL), WebService layer (SOAP , REST WFS 1.1 - 2.0) and front-end SPA based on XSD schemas of [INSPIRE](https://inspire.ec.europa.eu) standards.
-
-<div class="page" />
 
 ## Languages
 
