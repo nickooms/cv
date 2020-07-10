@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9ff6f37c-0fee-4854-a3d4-dab0e489e626/deploy-status)](https://app.netlify.com/sites/cv-nick-ooms/deploys)
+
 # Nick Ooms
 
 - [Nick Ooms](#nick-ooms)
