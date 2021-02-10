@@ -19,26 +19,6 @@ I simply love Javascript and have been using it on front & back-end (Aptana Jaxe
 - linkedin.com/in/oomsnick
 - github.com/nickooms
 
-## R&D
-
-### ITEA LASCOT
-
-> **LA**rge **S**cale **CO**llaborative Decision Support **T**echnology
-
-Crisis management R&D project for [ITEA](https://itea3.org), for which I created a CEP (Complex Event Processing} engine.
-
-### IWT SERKET
-
-> **SE**cu**R**isation **KE**eps **T**hreats
-
-R&D project using computer vision based on CCTV camera video for IWT (Instituut voor Innovatie door Wetenschap en Technologie vlaanderen).R&D project using computer vision based on CCTV camera video for IWT (Instituut voor Innovatie door Wetenschap en Technologie vlaanderen).
-
-### GENESIS FP7
-
-> European Commission FP7 ([https://ec.europa.eu/research/fp7](https://ec.europa.eu/research/fp7)) R&D Project.
-
-Developed a semantic modelling framework (Buddata Studio) that can generate a geospatial database ( MySQL & PostgreSQL ), WebService layer ( SOAP , REST WFS 1.1 - 2.0) and front-end SPA based on XSD schemas of INSPIRE ([https://inspire.ec.europa.eu](https://inspire.ec.europa.eu)) standards.
-
 ## Languages
 
 | Language | Level         |
@@ -100,7 +80,20 @@ Developed a semantic modelling framework (Buddata Studio) that can generate a ge
 
 ## Experience
 
-### Porphyrio [09/2019 - current]
+### Virtuosolar [09/2020 - 11/2020]
+
+> Senior Full-Stack Developer
+
+Development of web based 3D solar infrastructure design .
+
+- WebGL
+- Three.js
+- React
+- Vue
+- TypeScript
+- Node.js
+
+### Porphyrio [09/2019 - 11/2019]
 
 > Senior Frontend Developer
 
@@ -110,7 +103,7 @@ Development of a UI kit / Design System and implementation of 2 applications usi
 - TypeScript
 - Node.js
 
-### ChatLayer [04/2019 - 06/2019]
+### ChatLayer.ai [04/2019 - 06/2019]
 
 > Senior Full-Stack Developer
 
